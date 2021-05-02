@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FARMIA_MCC</string>
+    <!--  logintab_fragment.xml  -->
+    <string name="mobileno">Mobile No</string>
+    <string name="password">Password</string>
+    <string name="signin">SignIn</string>
+    <string name="forgotpassword">Forgot Password</string>
+
+    <!--  signup_tab fragment.xml  -->
+    <string name="Username">Username</string>
+    <string name="email">Email Id</string>
+    <string name="signup">SignUp</string>
+</resources>

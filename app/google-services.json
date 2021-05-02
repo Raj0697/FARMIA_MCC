@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "573286530498",
+    "firebase_url": "https://farmia-mcc-default-rtdb.firebaseio.com",
+    "project_id": "farmia-mcc",
+    "storage_bucket": "farmia-mcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573286530498:android:1057eb49aedbe7f3b96a5b",
+        "android_client_info": {
+          "package_name": "com.example.farmia_mcc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573286530498-dkjihv2erbfh9mb9lg083hqgcpl5rca3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farmia_mcc",
+            "certificate_hash": "8b2a87011169b5ca71807aa843eb9078460eecda"
+          }
+        },
+        {
+          "client_id": "573286530498-4dfrb1mhpve35r5i139d69it6gfd2kp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBznwceIRnq2CVgHLRCQDiczPKP6r6sv3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573286530498-4dfrb1mhpve35r5i139d69it6gfd2kp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
