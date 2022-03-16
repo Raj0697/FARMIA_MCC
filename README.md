@@ -11,15 +11,12 @@ This is the voice based assistant bot windows application. you can access many a
 	
 ## Technologies
 Project is created with:
-* Microsoft Visual Studio 2015
-* Microsft SQL Server 2017
-* Languages Used - C# and .NET
-* Packages Used - Speech Recognition and Speech Synthesis
-* Classes Used - SpeechSynthesizer, PrmoptBuilder, and SpeechRecognitionEngine
+* Arduino IDE
+* Android Studio
+* Sublime Text
+* Firebase Cloud
 
 ## Setup
-To run this project, install microsoft visual studio 2015 and install github extension and restart the visual studio:
-Open the Visual Studio -> Click on Team Explorer --> Github  --> Click on connect --> Then you need to login to your github account
-Then clone this project
+
 
 ## Screenshots
