@@ -1,12 +1,10 @@
 # FARMIA (Farm Intelligence Automation)
-It is an IOT based Android application with object detection using python
+It is an IOT based Android application with object detection using python.
 ## Table of Contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Hardwares](#hardwares)
-* [Software Configuration for IOT Circuit](#softwares-iot)
-* [Software Configuration for Android app with cloud](#softwares-android)
-* [Software Configuration for detecting objects in the camera or video](#softwares-python)
+* [Softwares](#softwares)
 * [Setup](#setup)
 * [Screenshots](#screenshots)
 
@@ -23,11 +21,13 @@ IOT, Android using java, Python for movement detection
 * Jumper Wires
 * USB Cable
 
-## Software Configuration for IOT Circuit
-* Arduino IDE 1.8.13
-* Firebase Cloud
+## Softwares
+* Arduino IDE 1.8.13 - C language for IOT 
+* Android Studio - Java and xml for android
+* Sublime Text - Python for movement detection
 
 ## Setup
 
 
 ## Screenshots
+![unnamed](https://user-images.githubusercontent.com/50259920/158834138-7a96b168-3c5f-4941-ac1f-29f3d42a8870.png)
