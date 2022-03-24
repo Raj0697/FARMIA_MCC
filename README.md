@@ -9,7 +9,7 @@ It is an IOT based Android application with object detection using python.
 * [Screenshots](#screenshots)
 
 ## General info
-This project is an android application that uses sensors to get data from the sorroundings like humidity and temperature and it will store the data to cloud and then based on the data, users will get notified in the android app. Android app has many features like voice assistant, Realtime data monitoring, instant notification to the users, users can set the minimum and maximum limit for the data to get notification based on the given values. It also has movement detection module that uses python to detect any movements through CCTV or any other cameras and the objects will be detected and notified to users mobile number using Twilio API.
+This project is an IOT based android application that uses sensors to get data from the sorroundings like humidity and temperature and it will store the data to cloud and then based on the data, users will get notified in the android app. Android app has many features like voice assistant, Realtime data monitoring, instant notification to the users, users can set the minimum and maximum limit for the data to get notification based on the given values. It also has movement detection module that uses python to detect any movements through CCTV or any other cameras and the objects will be detected and notified to users mobile number using Twilio API.
 
 ## Technologies
 IOT, Android using java, Python for movement detection
